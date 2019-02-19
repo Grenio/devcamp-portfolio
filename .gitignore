@@ -30,3 +30,6 @@
 /node_modules
 yarn-debug.log*
 .yarn-integrity
+
+# I don't want to show my secrets
+.env
