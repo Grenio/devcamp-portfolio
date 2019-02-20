@@ -9,4 +9,3 @@ end
   def comment_params
     params.require(:comment).permit(:contect)
   end
-end
